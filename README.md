@@ -1,5 +1,9 @@
-### Hi there 👋
+### #include <iostream>
 
+int main() {
+    std::cout << "YXMgeWVhdCBvbmNlIHNhaWQsIGx1aCB0b25rYSB0cnVjay4= !";
+    return 0;
+}
 <!--
 **ox1-22/ox1-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
