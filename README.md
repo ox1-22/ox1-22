@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Computing inside of college.
+- 🌱 I’m currently learning Computing/CS
 - 💬 Ask me about anything, I'm sure you'll get a response.
 - 📫 How to reach me: DC/ox1.22
 - 😄 Pronouns: He/Him/She/Her/They/Them
